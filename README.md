@@ -1,6 +1,6 @@
 # Chatbot
 Full Stack AI Chatbot
-<br>
+
 Integrated GroqCloud ultra-fast inference API to run large language models like compound-beta
 
 Built a clean and responsive frontend with FastAPI + Jinja2 
